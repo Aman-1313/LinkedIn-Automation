@@ -1,0 +1,89 @@
+---- Applied Jobs Data ---- created at: 20230308
+---- Number | Job Title | Company | Location | Work Place | Posted Date | Applications | Result 
+
+ Category: frontend, Location: Canada, Applying 
+1 | Développeur applications | Amika - Aide et soins à domicile | Quebec, Canada | Remote | 1 day ago | 19 applicants | * 🥵 3 Pages, couldn't apply to this job! Extra info needed. Link: https://www.linkedin.com/jobs/view/3516498653
+2 | Experienced iOS/Swift Developer (Fully Remote) | WISK.ai | Canada | Remote | 6 days ago |  | * 🥵 3 Pages, couldn't apply to this job! Extra info needed. Link: https://www.linkedin.com/jobs/view/3509306437
+3 | Jira Developer | Jovo Technologies Ltd | Regina, SK | Hybrid | 1 day ago | 11 applicants | * 🥳 Just Applied to this job: https://www.linkedin.com/jobs/view/3511275095
+4 | Firmware Engineer | DropLab Inc | Toronto, ON | On-site | 8 hours ago |  | * 🥳 Already applied! Job: https://www.linkedin.com/jobs/view/3511720750
+5 | Full-Stack Developer |  |  |  |  |  | * 🥳 Already applied! Job: https://www.linkedin.com/jobs/view/3511767447
+
+ Category: frontend, Location: Canada, Applying 
+1 | Développeur applications | Amika - Aide et soins à domicile | Quebec, Canada | Remote | 1 day ago | 19 applicants | * 🥵 3 Pages, couldn't apply to this job! Extra info needed. Link: https://www.linkedin.com/jobs/view/3516498653
+2 | Django Full-Stack Engineer | Metanode Labs Inc. | Canada | Remote | 8 minutes ago | 51 applicants | * 🥵 3 Pages, couldn't apply to this job! Extra info needed. Link: https://www.linkedin.com/jobs/view/3510698291
+3 | Experienced iOS/Swift Developer (Fully Remote) | WISK.ai | Canada | Remote | 6 days ago |  | * 🥵 3 Pages, couldn't apply to this job! Extra info needed. Link: https://www.linkedin.com/jobs/view/3509306437
+4 | Jira Developer | Jovo Technologies Ltd | Regina, SK | Hybrid | 1 day ago | 12 applicants | * 🥳 Already applied! Job: https://www.linkedin.com/jobs/view/3511275095
+5 | Full-Stack Developer | Pluto Systems | Langley, BC | Hybrid | 2 hours ago | 13 applicants | * 🥵 3 Pages, couldn't apply to this job! Extra info needed. Link: https://www.linkedin.com/jobs/view/3511767447
+6 | Firmware Engineer | DropLab Inc | Toronto, ON | On-site | 8 hours ago | 34 applicants | * 🥵 3 Pages, couldn't apply to this job! Extra info needed. Link: https://www.linkedin.com/jobs/view/3511720750
+
+ Category: frontend, Location: Canada, Applying 
+1 | Django Full-Stack Engineer | Metanode Labs Inc. | Canada | Remote | 16 minutes ago | 52 applicants | * 🥵 3 Pages, couldn't apply to this job! Extra info needed. Link: https://www.linkedin.com/jobs/view/3510698291
+2 | Experienced iOS/Swift Developer (Fully Remote) | WISK.ai | Canada | Remote | 6 days ago |  | * 🥵 3 Pages, couldn't apply to this job! Extra info needed. Link: https://www.linkedin.com/jobs/view/3509306437
+3 | Jira Developer | Jovo Technologies Ltd | Regina, SK | Hybrid | 1 day ago | 12 applicants | * 🥳 Already applied! Job: https://www.linkedin.com/jobs/view/3511275095
+4 | Data Scientist | IrisCX | Calgary, AB | On-site | 1 day ago | 160 applicants | * 🥵 3 Pages, couldn't apply to this job! Extra info needed. Link: https://www.linkedin.com/jobs/view/3511274925
+5 | Full-Stack Developer | Pluto Systems | Langley, BC | Hybrid | 3 hours ago | 13 applicants | * 🥵 3 Pages, couldn't apply to this job! Extra info needed. Link: https://www.linkedin.com/jobs/view/3511767447
+6 | Firmware Engineer | DropLab Inc | Toronto, ON | On-site | 8 hours ago | 34 applicants | * 🥵 3 Pages, couldn't apply to this job! Extra info needed. Link: https://www.linkedin.com/jobs/view/3511720750
+7 | User Interface Designer | Dolce Media Group Inc. | Vaughan, ON | On-site | 5 hours ago | 71 applicants | * 🥵 3 Pages, couldn't apply to this job! Extra info needed. Link: https://www.linkedin.com/jobs/view/3511742339
+8 | Développeurs recherchés – Recrutement International | Fujitsu | Quebec, Canada | On-site | 1 day ago | 61 applicants | * 🥵 3 Pages, couldn't apply to this job! Extra info needed. Link: https://www.linkedin.com/jobs/view/3417932927
+9 | Machine Vision Software Engineer or Computer Scientist | Nexera Robotics | North Vancouver, BC | On-site | 6 days ago |  | * 🥵 3 Pages, couldn't apply to this job! Extra info needed. Link: https://www.linkedin.com/jobs/view/3502769006
+10 | Full Stack Software Engineer - Java | CyberCoders | Vancouver, BC | On-site | 1 day ago |  | * 🥳 Just Applied to this job: https://www.linkedin.com/jobs/view/3393860925
+11 | OutSystems Developer | Viva Tech Solutions | Canada | Remote | 3 hours ago |  | * 🥳 Already applied! Job: https://www.linkedin.com/jobs/view/3511771087
+12 | Developer (Nodejs/Angular) | ARCX Inc. | Markham, ON | On-site | 5 hours ago |  | * 🥳 Already applied! Job: https://www.linkedin.com/jobs/view/3511742171
+13 | VoIP &amp; C++ Engineer | OPTICCA CONSULTING INC. | Canada | Remote | 6 days ago |  | * 🥳 Already applied! Job: https://www.linkedin.com/jobs/view/3509077813
+14 | Machine Learning Engineer | VoltSafe Inc. | Vancouver, BC | On-site | 1 day ago |  | * 🥳 Already applied! Job: https://www.linkedin.com/jobs/view/3511419388
+15 | Mobile Application Developer | Teacup Tech Systems | Canada | Remote | 21 hours ago |  | * 🥳 Already applied! Job: https://www.linkedin.com/jobs/view/3511479713
+16 | Back End Developer | XTM Inc. | Toronto, ON | Hybrid | 6 hours ago | 79 applicants | * 🥵 3 Pages, couldn't apply to this job! Extra info needed. Link: https://www.linkedin.com/jobs/view/3511737773
+17 | Senior Flutter UI developer | Snappy | Ontario, Canada | Remote | 3 hours ago | 14 applicants | * 🥵 3 Pages, couldn't apply to this job! Extra info needed. Link: https://www.linkedin.com/jobs/view/3511757786
+18 | System Engineer Contract | Kaloom | Montreal, QC | Hybrid | 2 days ago | 55 applicants | * 🥵 4 Pages, couldn't apply to this job! Extra info needed. Link: https://www.linkedin.com/jobs/view/3510087174
+19 | Engineer | International CCS Knowledge Centre | Regina, SK | Hybrid | 2 days ago |  | * 🥳 Already applied! Job: https://www.linkedin.com/jobs/view/3495692191
+20 | FLock.io - AI + Blockchain Developer - Direct Hire [Remote] | Braintrust | Toronto, ON | Remote | 6 days ago |  | * 🥳 Already applied! Job: https://www.linkedin.com/jobs/view/3509642057
+21 | DevOps Engineer | BDP International | Etobicoke, ON | On-site | 2 days ago |  | * 🥳 Already applied! Job: https://www.linkedin.com/jobs/view/3420647784
+22 | Web Developer | Cymax Group Technologies | Canada | Remote | 6 days ago |  | * 🥳 Already applied! Job: https://www.linkedin.com/jobs/view/3361354110
+23 | Full Stack Engineer | NLB Services | Calgary, AB | Hybrid | 4 hours ago |  | * 🥳 Already applied! Job: https://www.linkedin.com/jobs/view/3513535796
+24 | DevOps Engineer Jobs | Woven | High-Signal Technical Assessments | Toronto, ON | Hybrid | 14 hours ago |  | * 🥳 Already applied! Job: https://www.linkedin.com/jobs/view/3511543389
+25 | Développeur Logiciel ( mode Hybride) | Acolad group | Dorval, QC | On-site | 5 days ago |  | * 🥳 Already applied! Job: https://www.linkedin.com/jobs/view/3511153877
+26 | Back-end Developer - Java | Teacup Tech Systems | Canada | Remote | 2 days ago |  | * 🥳 Already applied! Job: https://www.linkedin.com/jobs/view/3510691129
+27 | UX/UI Designer | Reshift Media Inc. | Canada | Remote | 5 days ago |  | * 🥳 Already applied! Job: https://www.linkedin.com/jobs/view/3507110443
+28 | Cartan Group - Software Engineer, Backend - Direct Hire [Remote] | Braintrust | Toronto, ON | Remote | 19 minutes ago |  | * 🥳 Already applied! Job: https://www.linkedin.com/jobs/view/3509037618
+29 | Embedded Software Engineer | Polyga Inc. | Burnaby, BC | On-site | 3 days ago |  | * 🥳 Already applied! Job: https://www.linkedin.com/jobs/view/3509244874
+30 | NodeJS Full Stack Developer | Bull IT Services | Toronto, ON | Hybrid | 4 hours ago |  | * 🥳 Already applied! Job: https://www.linkedin.com/jobs/view/3511754792
+
+ Category: frontend, Location: Canada, Applying 
+1 | Jira Developer | Jovo Technologies Ltd | Regina, SK | Hybrid | 1 day ago |  | * 🥳 Already applied! Job: https://www.linkedin.com/jobs/view/3511275095
+2 | Django Full-Stack Engineer | Metanode Labs Inc. | Canada | Remote | 24 minutes ago | 53 applicants | * 🥵 3 Pages, couldn't apply to this job! Extra info needed. Link: https://www.linkedin.com/jobs/view/3510698291
+3 | Firmware Engineer | DropLab Inc | Toronto, ON | On-site | 8 hours ago | 34 applicants | * 🥵 3 Pages, couldn't apply to this job! Extra info needed. Link: https://www.linkedin.com/jobs/view/3511720750
+4 | Data Scientist | IrisCX | Calgary, AB | On-site | 1 day ago | 161 applicants | * 🥵 3 Pages, couldn't apply to this job! Extra info needed. Link: https://www.linkedin.com/jobs/view/3511274925
+5 | Full-Stack Developer | Pluto Systems | Langley, BC | Hybrid | 3 hours ago |  | * 🥳 Already applied! Job: https://www.linkedin.com/jobs/view/3511767447
+6 | User Interface Designer | Dolce Media Group Inc. | Vaughan, ON | On-site | 6 hours ago |  | * 🥳 Already applied! Job: https://www.linkedin.com/jobs/view/3511742339
+7 | Développeurs recherchés – Recrutement International | Fujitsu | Quebec, Canada | On-site | 1 day ago |  | * 🥳 Already applied! Job: https://www.linkedin.com/jobs/view/3417932927
+8 | Developer (Nodejs/Angular) | ARCX Inc. | Markham, ON | On-site | 5 hours ago |  | * 🥳 Already applied! Job: https://www.linkedin.com/jobs/view/3511742171
+9 | Full Stack Software Engineer - Java | CyberCoders | Vancouver, BC | On-site | 1 day ago |  | * 🥳 Already applied! Job: https://www.linkedin.com/jobs/view/3393860925
+10 | Machine Vision Software Engineer or Computer Scientist | Nexera Robotics | North Vancouver, BC | On-site | 6 days ago |  | * 🥵 3 Pages, couldn't apply to this job! Extra info needed. Link: https://www.linkedin.com/jobs/view/3502769006
+11 | OutSystems Developer | Viva Tech Solutions | Canada | Remote | 3 hours ago |  | * 🥳 Already applied! Job: https://www.linkedin.com/jobs/view/3511771087
+12 | Machine Learning Engineer | VoltSafe Inc. | Vancouver, BC | On-site | 1 day ago |  | * 🥳 Already applied! Job: https://www.linkedin.com/jobs/view/3511419388
+13 | VoIP &amp; C++ Engineer | OPTICCA CONSULTING INC. | Canada | Remote | 6 days ago |  | * 🥳 Already applied! Job: https://www.linkedin.com/jobs/view/3509077813
+14 | Graphic Designer and Content Coordinator | Spruce Meadows | Calgary, AB | On-site | 5 days ago |  | * 🥳 Already applied! Job: https://www.linkedin.com/jobs/view/3506264305
+15 | Engineer | International CCS Knowledge Centre | Regina, SK | Hybrid | 2 days ago |  | * 🥳 Already applied! Job: https://www.linkedin.com/jobs/view/3495692191
+16 | Back End Developer | XTM Inc. | Toronto, ON | Hybrid | 6 hours ago |  | * 🥳 Already applied! Job: https://www.linkedin.com/jobs/view/3511737773
+17 | Senior Flutter UI developer | Snappy | Ontario, Canada | Remote | 4 hours ago |  | * 🥳 Already applied! Job: https://www.linkedin.com/jobs/view/3511757786
+18 | System Engineer Contract | Kaloom | Montreal, QC | Hybrid | 2 days ago |  | * 🥳 Already applied! Job: https://www.linkedin.com/jobs/view/3510087174
+19 | Mobile Application Developer | Teacup Tech Systems | Canada | Remote | 21 hours ago |  | * 🥳 Already applied! Job: https://www.linkedin.com/jobs/view/3511479713
+20 | Embedded Software Engineer | Polyga Inc. | Burnaby, BC | On-site | 3 days ago | 68 applicants | * 🥵 3 Pages, couldn't apply to this job! Extra info needed. Link: https://www.linkedin.com/jobs/view/3509244874
+21 | FLock.io - AI + Blockchain Developer - Direct Hire [Remote] | Braintrust | Toronto, ON | Remote | 6 days ago | 56 applicants | * 🥳 Just Applied to this job: https://www.linkedin.com/jobs/view/3509642057
+22 | DevOps Engineer | BDP International | Etobicoke, ON | On-site | 2 days ago |  | * 🥳 Just Applied to this job: https://www.linkedin.com/jobs/view/3420647784
+23 | Full Stack Engineer | NLB Services | Calgary, AB | Hybrid | 4 hours ago | 8 applicants | * 🥳 Just Applied to this job: https://www.linkedin.com/jobs/view/3513535796
+24 | UX/UI Designer | Reshift Media Inc. | Canada | Remote | 5 days ago |  | * 🥵 3 Pages, couldn't apply to this job! Extra info needed. Link: https://www.linkedin.com/jobs/view/3507110443
+25 | Web Developer | Cymax Group Technologies | Canada | Remote | 6 days ago |  | * 🥳 Just Applied to this job: https://www.linkedin.com/jobs/view/3361354110
+26 | Back-end Developer - Java | Teacup Tech Systems | Canada | Remote | 2 days ago |  | * 🥳 Just Applied to this job: https://www.linkedin.com/jobs/view/3510691129
+27 | Développeur applications | Amika - Aide et soins à domicile | Quebec, Canada | Remote | 1 day ago | 20 applicants | * 🥵 3 Pages, couldn't apply to this job! Extra info needed. Link: https://www.linkedin.com/jobs/view/3516498653
+28 | Développeur Logiciel ( mode Hybride) | Acolad group | Dorval, QC | On-site | 5 days ago | 24 applicants | * 🥵 3 Pages, couldn't apply to this job! Extra info needed. Link: https://www.linkedin.com/jobs/view/3511153877
+29 | Cartan Group - Software Engineer, Backend - Direct Hire [Remote] | Braintrust | Toronto, ON | Remote | 30 minutes ago | 38 applicants | * 🥳 Just Applied to this job: https://www.linkedin.com/jobs/view/3509037618
+30 | NodeJS Full Stack Developer | Bull IT Services | Toronto, ON | Hybrid | 4 hours ago | 29 applicants | * 🥵 3 Pages, couldn't apply to this job! Extra info needed. Link: https://www.linkedin.com/jobs/view/3511754792
+31 | Frontend Developer/LaunchPad Instructor | Vog App Developers | Calgary, AB | Hybrid | 1 day ago | 92 applicants | * 🥵 3 Pages, couldn't apply to this job! Extra info needed. Link: https://www.linkedin.com/jobs/view/3511449027
+32 | Full Stack Engineer | Lexop | Montreal, QC | Hybrid | 1 day ago | 42 applicants | * 🥵 3 Pages, couldn't apply to this job! Extra info needed. Link: https://www.linkedin.com/jobs/view/3516807318
+33 | Software Engineer II | Exan Software | Vancouver, BC | Hybrid | 7 hours ago |  | * 🥵 5 Pages, couldn't apply to this job! Extra info needed. Link: https://www.linkedin.com/jobs/view/3439115345
+34 | Data Engineer (Azure) |  |  |  |  |  | * 🥳 Already applied! Job: https://www.linkedin.com/jobs/view/3383011313
+
+ Category: frontend, Location: Canada, Applying 
+
+ Category: frontend, Location: Canada, Applying 
