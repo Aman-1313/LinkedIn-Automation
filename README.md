@@ -1,6 +1,6 @@
 ## Installation 
 
-- clone the repo `git clone https://github.com/wodsuz/EasyApplyJobsBot`
+- clone the repo `git clone https://github.com/Aman-1313/LinkedIn-Automation`
 - Make sure Python and pip is installed
 - Install dependencies with `pip3 install -r requirements.yaml`
 - Enter your linkedin credentials on line 8 and 9 of config.py file
